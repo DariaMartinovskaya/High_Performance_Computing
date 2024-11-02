@@ -2,8 +2,12 @@
 HPC
 aula3.cpp
 Daria Martinovskaya
-2024-11-0
-2
+2024-11-02
+
+To compil (=process of converting source code written in a programming language (such as C++) into machine code that can be executed by a computer): g++ integral_v2.cpp -o integral_v2 -fopenmp
+
+To run the program: ./integral_v2
+
 An example of integral summation for calculating areas: the code below is developed to calculate the number π using the method of numerical integration. Integration is a way to find the area under a curve. In this case. we use a function that describes a quarter of a circle to estimate π. 
 */
 
