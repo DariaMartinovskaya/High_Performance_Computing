@@ -1,0 +1,10 @@
+all: farao
+f.o: f.cpp
+	nvc++ f.cpp -c 
+
+farao: farao.cpp f.o
+	nvc++ farao.cpp f.o -o fara
+
+clean:
+	rm -f *.o
+	rm -f faraoo 
