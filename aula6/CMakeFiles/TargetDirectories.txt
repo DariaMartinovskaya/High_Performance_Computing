@@ -1,0 +1,3 @@
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/aula6/CMakeFiles/farao.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/aula6/CMakeFiles/edit_cache.dir
+/home/alunos/tei/2024/tei26610/hpc2/my-repo/aula6/CMakeFiles/rebuild_cache.dir

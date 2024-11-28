@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -O3 CMakeFiles/farao.dir/farao.cpp.o -o farao 
