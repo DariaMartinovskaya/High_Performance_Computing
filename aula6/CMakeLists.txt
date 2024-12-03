@@ -4,5 +4,7 @@ find_package(CUDAToolkit)
 set(CMAKE_CXX_FLAGS "-fopenmp -O3")
 
 add_executable(farao
-	farao.cpp
+        farao.cpp
+        heat_diffusion_2d.cpp
+        farao.h
 )
