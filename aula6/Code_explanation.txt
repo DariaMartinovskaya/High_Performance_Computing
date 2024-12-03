@@ -1,0 +1,7 @@
+CMakeLists.txt: Configures the project to use OpenMP and optionally CUDA, optimizing the compilation.
+
+farao.cpp: Creates matrices to store the heat diffusion and saves the results to a file.
+
+farao.h: Declares the heat_diffusion_2d function.
+
+heat_diffusion_2d.cpp: Simulates heat diffusion using parallelism, initializes initial conditions, and applies the diffusion formula in a time loop.
